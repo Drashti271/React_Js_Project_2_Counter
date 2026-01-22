@@ -5,6 +5,8 @@ This project demonstrates the basics of React such as state management, componen
 
 ---
 
+Live : https://react-js-project-2-counter.vercel.app/
+
 ## 🚀 Features
 - Increment counter
 - Decrement counter
